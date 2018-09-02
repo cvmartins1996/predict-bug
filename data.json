@@ -1,0 +1,62 @@
+[
+    {
+        "text": "olá boa noite",
+        "category": "greetings"
+    },
+    {
+        "text": "olá",
+        "category": "greetings"
+    },
+    {
+        "text": "oi, boa noite",
+        "category": "greetings"
+    },
+    {
+        "text": "preciso de ajuda",
+        "category": "support"
+    },
+    {
+        "text": "tenho uma dúvida",
+        "category": "support"
+    },
+    {
+        "text": "como vai?",
+        "category": "greetings"
+    },
+    {
+        "text": "bom dia",
+        "category": "greetings"
+    },
+    {
+        "text": "tenho uma tarefa parada",
+        "category": "support"
+    },
+    {
+        "text": "a tela não mostra as informações corretas",
+        "category": "bug"
+    },
+    {
+        "text": "no cadastro, nao esta aparecendo um combo",
+        "category": "support"
+    },
+    {
+        "text": "relatório não tem os campos que preciso",
+        "category": "support"
+    },
+    {
+        "text": "nao funciona",
+        "category": "bug"
+    },
+    {
+        "text": "usuario nao loga",
+        "category": "bug"
+    },
+    {
+        "text": "nao salva",
+        "category": "bug"
+    },
+    {
+        "text": "nao renderiza",
+        "category": "bug"
+    }
+]
